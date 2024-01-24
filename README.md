@@ -1,4 +1,4 @@
-<img width="960" alt="image" src="https://github.com/nadrzs/FlutterClass-ReviewDart/assets/42337677/7f8a7c18-feef-47f5-8f3a-bd5fc02982a1"># FlutterClass-ReviewDart
+Output Result
 
 1. Output latihan_1.dart
    <img width="960" alt="image" src="https://github.com/nadrzs/FlutterClass-ReviewDart/assets/42337677/965fffae-7792-4c56-8749-b8b69245d182">
